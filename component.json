@@ -4,7 +4,7 @@
     "repos": "https://github.com/jzaefferer/jquery-validation.git",
     "version": "1.13.1",
     "description": "jquery-validation component",
-    "dependencies": {
+    "dependencies": [
         "jquery@1.9.1"
-    }
+    ]
 }
